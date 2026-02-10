@@ -50,7 +50,7 @@ My automation solutions are backed by real-world experience in high-volume envir
 
 ### 📫 Connect with Me
 
--   [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
--   [Email](mailto:your-email@example.com)
+-   [LinkedIn](https://linkedin.com/in/ehab-moreed-cx)
+-   [Email](ehab.ahmedcx@gmail.com)
 
 *"Mastering the art of doing more with less through automation."*
