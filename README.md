@@ -12,11 +12,13 @@ I specialize in transforming complex customer journeys into streamlined, automat
 
 *6 months ago, I pivoted into the technical side of CX. Since then, I've been building:*
 
-*   **[NajdCommerce](YOUR_NAJDCOMMERCE_REPO_LINK_OR_DEMO) (40% Complete):** Architecting a full-scale HubSpot Enterprise implementation for a Saudi E-com brand.
-*   **n8n Workflows:**
+*   **[NajdCommerce](https://app-eu1.hubspot.com/workflows/147755379/platform/flow/3735195890/edit):** Architecting a full-scale HubSpot Enterprise implementation for a Saudi E-com brand.
+    *   **Just completed SLA automation** in our HubSpot CX project, designed to **cut response times by 50%** for enterprise clients through geographic tiering and VIP customer auto-routing.
+*   **[n8n Workflows](YOUR_N8N_WORKFLOWS_DOCS_OR_REPO):**
     *   Engineered a **[Smart Ticket Router (v1.0)](YOUR_SMART_TICKET_ROUTER_DOCS_OR_REPO)** that **reduced manual ticket sorting time by X%** (e.g., 70%).
     *   Automated alert systems via Telegram, **improving incident response time by Y%** (e.g., 50%).
-*   **AI Integration:** Developed a **[Google Sheets ↔️ Gemini AI pipeline](YOUR_GEMINI_PIPELINE_DOCS_OR_REPO)** using **Make** for intelligent data processing, **automating Z% of data enrichment tasks** (e.g., 90%).
+*   **[AI Integration](YOUR_GEMINI_PIPELINE_DOCS_OR_REPO):** Developed a **Google Sheets ↔️ Gemini AI** pipeline using **Make** for intelligent data processing, **automating Z% of data enrichment tasks** (e.g., 90%).
+*   **remie (Project Name):** [Description of remie and its impact, along with a link if available]
 
 ---
 
@@ -48,7 +50,7 @@ My automation solutions are backed by real-world experience in high-volume envir
 
 ### 📫 Connect with Me
 
--   [LinkedIn](https://linkedin.com/in/ehab-moreed-cx)
--   [Email](ehab.ahmedcx@gmail.com)
+-   [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+-   [Email](mailto:your-email@example.com)
 
 *"Mastering the art of doing more with less through automation."*
