@@ -16,7 +16,7 @@ This README showcases CX operations architecture and automation design concepts.
     "certifications": ["HubSpot Service Hub Certified"],
     "specialization": "CX Automation for KSA & GCC",
     "location": "Egypt",
-    "targeting": ["Saudi Arabia", "GCC (excluding UAE)"]
+    "targeting": ["Saudi Arabia", "GCC"]
   },
   "profile": {
     "experience": "5+ years",
