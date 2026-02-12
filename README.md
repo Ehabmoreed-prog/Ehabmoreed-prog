@@ -46,10 +46,10 @@ This README showcases CX operations architecture and automation design concepts.
 ## 🚀 Current Projects
 
 ### [`NajdCommerce-Service-Hub`](https://github.com/ehab-ahmed/NajdCommerce-Service-Hub)  
-**Saudi E-commerce CX Blueprint**  
+**NajdCommerce-Service-Hub – Saudi E-commerce CX Blueprint**  
 `Status: 40% Complete` • `Type: Design Architecture`
 
-> 📦 **Repository**: [github.com/ehab-ahmed/NajdCommerce-Service-Hub](https://github.com/ehab-ahmed/NajdCommerce-Service-Hub) *(Coming Soon)*  
+> 📦 **Repo (planned)**: [github.com/ehab-ahmed/NajdCommerce-Service-Hub](https://github.com/ehab-ahmed/NajdCommerce-Service-Hub) *(Coming Soon)*  
 > 🎯 **Purpose**: Reference architecture for KSA e-commerce CX operations (concept & design phase)
 
 ```yaml
