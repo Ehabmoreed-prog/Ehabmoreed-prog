@@ -25,7 +25,7 @@ I specialize in transforming complex customer journeys into streamlined, automat
 My automation solutions are backed by real-world experience in high-volume environments:
 
 *   **Splatilast:** CX Automation Specialist (Current)
-*   **MHRSD (UAE):** Strategy & Customer Excellence
+*   **MOHRE (UAE):** Strategy & Customer Excellence
 *   **Noon & Namshi:** Operations & CX Scaling
 
 ---
