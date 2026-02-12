@@ -1,5 +1,6 @@
 README.md
-📋 Portfolio Note: This README showcases CX operations architecture and automation design concepts. Code blocks represent design patterns, workflow logic, and technical thinking rather than production implementations. Metrics are design targets based on industry benchmarks and GCC e-commerce experience.
+📋 Portfolio Note
+This README showcases CX operations architecture and automation design concepts. Code blocks represent design patterns, workflow logic, and technical thinking rather than production implementations. Metrics are design targets based on industry benchmarks and GCC e-commerce experience.
 const developer = {
   name: "Ehab Ahmed",
   title: "CX Operations & Support Engineer",
@@ -30,11 +31,18 @@ const developer = {
     languages: ["Arabic (Native)", "English (Fluent)"]
   }
 };
-🚀 Current Projects
-NajdCommerce-Service-Hub
-Saudi E-commerce CX Blueprint • Status: 40% Complete • Type: Design Architecture
-📦 Repository: github.com/ehab-ahmed/NajdCommerce-Service-Hub (Coming Soon)
-🎯 Purpose: Reference architecture for KSA e-commerce CX operations (concept & design phase)
+
+---
+
+## 🚀 Current Projects
+
+### [`NajdCommerce-Service-Hub`](https://github.com/ehab-ahmed/NajdCommerce-Service-Hub) 
+**Saudi E-commerce CX Blueprint** • `Status: 40% Complete` • `Type: Design Architecture`
+
+> 📦 **Repository**: [github.com/ehab-ahmed/NajdCommerce-Service-Hub](https://github.com/ehab-ahmed/NajdCommerce-Service-Hub) *(Coming Soon)*  
+> 🎯 **Purpose**: Reference architecture for KSA e-commerce CX operations (concept & design phase)
+
+```yaml
 project:
   name: "NajdCommerce Service Hub"
   description: "End-to-end CX architecture for Saudi e-commerce"
